@@ -1,0 +1,22 @@
+{
+  "mongoDB_URL": "mongodb://127.0.0.1:27017/example",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+  "sitekey": "6LdC0iQUAAAAAOYmRv34KSLDe-7DmQrUSYJH8eB_",
+  "url": "",
+  "pid": "",
+  "proxy": "",
+  "instances": 1,
+  "firstName": "",
+  "lastName": "",
+  "firstAddress": "",
+  "secondAddress": "",
+  "city": "",
+  "zip": "",
+  "phone": "",
+  "email": "",
+  "byear": "",
+  "bmonth": "",
+  "bday": "",
+  "ssn": "",
+  "passedCookies":[]
+}
